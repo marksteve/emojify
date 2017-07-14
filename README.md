@@ -1,6 +1,6 @@
 # Emojify
 
-A web service that tries to determine the appropriate emoji for a given image. It uses a CNN model trained with the CIFAR-10 dataset deployed in ML Engine to run predictions.
+A web service that tries to determine the appropriate emoji for a given image. It uses a [CNN model](https://github.com/marksteve/models/tree/master/cifar10) trained with the CIFAR-10 dataset deployed in ML Engine to run predictions.
 
 ## Setup
 
